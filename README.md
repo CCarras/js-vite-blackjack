@@ -7,4 +7,4 @@ Instrucciones de uso:
     En caso de pasarse, el turno pasa automáticamente a la CPU.
 3. Una vez estemos conformes con las cartas, clicaremos en 'Plantarse' para iniciar el turno de la CPU.
 4. La CPU juega automáticamente para superar nuestra puntuación o igualarla, tratando de no pasarsed de 21.
-5. Disfruta!
+5. ¡Disfruta!
